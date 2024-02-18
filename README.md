@@ -22,4 +22,4 @@
 - Experienced in Offers are sent to contacts via an inbound (website or callcenter) or outbound (email delivery, direct mail or SMS within a marketing campaign)
 - Uncover potential data gaps around related to new campaigns or campaign enhancement
 
--Holding US (B1/B2) VISA valid till Mar 2026
+**Holding US (B1/B2) VISA valid till Mar 2026**
