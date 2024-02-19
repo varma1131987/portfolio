@@ -2,6 +2,13 @@
 
 Leadership position in a Digital first & AI first fast-paced technology company with varied responsibilities and the potential for advancement in an organization, to provide design & development solutions for Enterprise critical data requirement utilizing my expertise in Digital space & In AI/ML MLOps,GenAIOps,LLMOps, and RAGOps plays a critical role in driving innovation, efficiency, and business value through the effective application of artificial intelligence and machine learning technologies.
 
+## Certifications
+- AWS Certified Solutions Architect | AWS
+- Certified SAFe® 5 Product Owner/Product Manage | SAFe@5 
+- Certified SAFe® 5 Practitioner teams |  SAFe@5   		
+- Post Graduate Diploma in Machine Learning and Artificial Intelligence | NIT Warangal
+- Data & AI Enrich Program in Machine Learning and Artificial Intelligence |IISc	Bangalore 
+
 # Skills Summary :
 **Leadership and Strategy:**
   - Provide strategic direction and vision for AI/ML initiatives aligned with organizational goals and objectives.
@@ -44,10 +51,9 @@ Leadership position in a Digital first & AI first fast-paced technology company 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Data & AI Enrich Program in Machine Learning and Artificial Intelligence | Indian Institute of Science - IISc	Bangalore(_July 2023)				       		
-- Post Graduate Diploma in Machine Learning and Artificial Intelligence | NIT Warangal (_August 2021)
+
 - MCA , Computer Science | Andhra university (_May 2010_)			        		
-- B.Sc, Computer Science | Andhra university (_May 2007)
+- B.Sc, Computer Science | Andhra university (_May 2007_)
 
 ## Work Experience
 **Associate Director @ TIAA Global Capabilities Pune, India (_Jan 2017 - Present_)**
